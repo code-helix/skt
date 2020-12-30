@@ -1,2 +1,5 @@
 #!/bin/bash
-echo "slatekit tools 1.29.0"
+currentDate=`date`
+echo "=========================================="
+echo "skt version=1.30.0, date=${currentDate}"
+echo "=========================================="
