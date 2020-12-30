@@ -1,5 +1,5 @@
 #!/bin/bash
 currentDate=`date`
 echo "=========================================="
-echo "skt version=2.1.0, date=${currentDate}"
+echo "skt version=2.2.0, date=${currentDate}"
 echo "=========================================="
